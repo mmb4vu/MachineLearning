@@ -1,2 +1,2 @@
-# MachineLearning
+# Machine Learning
 Contains several simple solutions using popular machine learning approaches.
